@@ -1,0 +1,28 @@
+.button {
+  border: 1px solid #db1c48;
+  background: transparent;
+  color: #db1c48;
+  font-family: 'Roboto';
+  border-radius: 50px;
+  padding-left: 12px;
+  padding-right: 12px;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  cursor: pointer;
+}
+.li {
+  margin-top: 20px;
+  margin-right: 20px;
+}
+.onActive {
+  border: none;
+  color: #ffffff;
+  background-color: #db1c48;
+  font-family: 'Roboto';
+  border-radius: 50px;
+  cursor: pointer;
+  padding-left: 12px;
+  padding-right: 12px;
+  padding-top: 7px;
+  padding-bottom: 7px;
+}
